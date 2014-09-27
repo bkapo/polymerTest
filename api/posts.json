@@ -1,0 +1,38 @@
+[
+    {
+        "uid": 1,
+        "text": "Fresh milk 1lt",
+        "username": "Milk",
+        "price": "5 Euro",
+        "quantity": "1",
+        "avatar": "../images/milk.svg",
+        "favorite": false
+    },
+    {
+        "uid": 2,
+        "text": "Office Depot Composition Book, 100 Sheets, Black/White Marble, Pack Of 3.",
+        "username": "Notebook",
+        "quantity": "1",
+        "avatar": "../images/Notebook.svg",
+        "price": "15 Euro",
+        "favorite": false
+    },
+    {
+        "uid": 3,
+        "text": "Natural water, Pack of 6.",
+        "username": "Water",
+        "price": "7 Euro",
+        "quantity": "1",
+        "avatar": "../images/water.svg",
+        "favorite": false
+    },
+    {
+        "uid": 4,
+        "text": "Product description",
+        "username": "Product",
+        "price": "55 Euro",
+        "quantity": "1",
+        "avatar": "../images/product1.svg",
+        "favorite": false
+    }
+]
